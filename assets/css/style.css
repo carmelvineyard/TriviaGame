@@ -1,0 +1,33 @@
+body {
+	background-image: "images/bg2-CVJ-flag.jpg";
+	background-color: #cfafcf;
+	font-family: 'Josefin Slab', serif;
+	font-weight: bold;
+	color: #3e083d;
+	text-align: center;
+}
+
+a:link {
+	text-decoration: none;
+	color: #4a0a4a;
+}
+
+a:visited {
+	color: #ffffff;
+}
+
+input {
+	padding: 15px;
+	background-color: #4a0a4a;
+	color: #cccccc;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+ul {
+	list-style-type: none;
+}
+
+h1, h3 {
+	font-family: 'Fredericka the Great', cursive;
+}
+
