@@ -1,5 +1,8 @@
 body {
-	background-image: "images/bg2-CVJ-flag.jpg";
+	background-image: url("images/bg2-CVJ-flag.jpg");
+	background-size: cover;
+	height: auto;
+	width: 100%;
 	background-color: #cfafcf;
 	font-family: 'Josefin Slab', serif;
 	font-weight: bold;

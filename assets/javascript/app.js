@@ -73,7 +73,7 @@ $(document).ready(function() {
 	};
 
 	//bonus round: making the <p> above each link in the resources div toggle display
-	//when the link is moused over.
+	//when the answer header is moused over.
 
 	$(".reveal").on("mouseover", event =>{
 		$(event.currentTarget).next("p").toggle("slow");
